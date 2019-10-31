@@ -7,9 +7,9 @@
   "dependencies": {
     "@reshuffle/code-transform": "0.0.3",
     "@reshuffle/db": "^0.5.3",
-    "@reshuffle/fetch-runtime": "0.0.5",
-    "@reshuffle/local-proxy": "^0.2.12",
-    "@reshuffle/server-function": "0.0.6",
+    "@reshuffle/fetch-runtime": "0.0.6",
+    "@reshuffle/local-proxy": "^0.2.14",
+    "@reshuffle/server-function": "0.0.8",
     "bootstrap": "^4.3.1",
     "react": "^16.9.0",
     "react-bootstrap": "^1.0.0-beta.12",
