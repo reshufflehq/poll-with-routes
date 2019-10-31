@@ -1,8 +1,8 @@
 [![CircleCI](https://circleci.com/gh/reshufflehq/poll.svg?style=svg)](https://circleci.com/gh/reshufflehq/poll)
 
-## Poll App - Full Stack
+## Poll With Routes App - Full Stack
 
-This application provides a frontend view for the poll, and backend logic to track votes persistently for users.
+This application provides a frontend view for the poll, and backend logic to track votes persistently for users. It also provides a convenient `/poll-data` endpoint which provides access to the raw poll data (in JSON format).
 
 Customizable React poll application written with Reshuffle.
 
